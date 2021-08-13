@@ -1,0 +1,36 @@
+body{
+
+    margin-left:7%;
+    margin-right:7%;
+}
+
+.cata img{
+
+    width: 100px;
+}
+.butt{
+
+    background-color: #ff458f;
+    border: white;
+    padding: 10px;
+}
+.back{
+
+    background-color: #fceae8;
+    margin-top: 70px;
+    border-radius: 14px;
+    margin-bottom: 70px;
+}
+.borderr{
+
+     box-shadow:  5px 10px lightgrey;
+
+
+      
+
+}
+.email{
+
+    background-color: #fceae8;
+    height: 300px;
+}
